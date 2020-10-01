@@ -17,3 +17,5 @@ public class Solution {
         // Complete this line
     }
 }
+
+System.out.println("alan");
